@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [:jpmfab] /Users/jimpoolmoreno/Documents/Android/CustomFAB/jpmfab/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/439e0fec2c364db9ef2ae813f8fe494a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/f2b45e82ff814f2ce1205db11f8954d9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/d36bd2115f228344a976f8ba817c30d9/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/016955648b5eb88f8595c301e81aff39/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/4250840d41a6fe5e47905304e65cfa3f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/d5fe7397c6db8a1bf45c82fc99364f49/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/a9da4ac328e78151a21e12a3c21d92e2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/4f95aa427b113858f89277f326979621/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/4fb694f60182b489a4584ba31091789e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/78adcd4fbb1225275a02177d008a9046/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/c455a33bfdf45be267fd84ece66ae107/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/d6d1c0d69281f7b5ea142426d6e5746a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/7fd2e77d514c5c7cfc33c0b92c0769ab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/a413054dfc63a409f2f41644f67498f3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/936d06b90ed122b5c62cb31aea329d08/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/0979a7f7d0b4482a2be05ae8f0fd7c7e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/c3894f49535a0fc640d250af8e06785b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/21dcea46af78a83f89dcf24e929fe1e7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/32d0efb6635c38a22da0fc2403b09202/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/86200e8e8f6431ba13bc7361514f8c8c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/ca7ae54736dd2e40640378ac6452030a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/a07b4c80d8b038311796bfe95561dbef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/762d8c78cbe526e95bc621bd67edc71e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/535e9e4b687caf86db04b582b1de4c8b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/11e92b5b054a50938ab1bde25603edeb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/a08cca9ba6e16fd90c9f7fa998fbfb02/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/13e2af88736352a3ad13b2fc6e4d5e10/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/f08cba349eb21ebe1d52e636be5c4106/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/5d559c0e43f1788d51b706eb1eb87069/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/299651a8613a172046a63323e147a20a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/719e88f50b697c6b6603d23f47f8e4e7/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/af549e50637bab277ca1c72cc4af9bca/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/e764e0c6989acbaeaf48d698258e9a3f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/19e308a232217aaaf96d6890d927472a/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/439e0fec2c364db9ef2ae813f8fe494a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/439e0fec2c364db9ef2ae813f8fe494a/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/d36bd2115f228344a976f8ba817c30d9/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/d36bd2115f228344a976f8ba817c30d9/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/719e88f50b697c6b6603d23f47f8e4e7/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/719e88f50b697c6b6603d23f47f8e4e7/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/af549e50637bab277ca1c72cc4af9bca/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/af549e50637bab277ca1c72cc4af9bca/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/719e88f50b697c6b6603d23f47f8e4e7/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:8:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:10:9-44
+	android:roundIcon
+		ADDED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:9:9-54
+	android:largeHeap
+		ADDED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:11:9-33
+	android:icon
+		ADDED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:13:9-40
+activity#appjpm4everyone.customFab.MainActivity
+ADDED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:14:19-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml
+MERGED from [:jpmfab] /Users/jimpoolmoreno/Documents/Android/CustomFAB/jpmfab/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:jpmfab] /Users/jimpoolmoreno/Documents/Android/CustomFAB/jpmfab/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/439e0fec2c364db9ef2ae813f8fe494a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/439e0fec2c364db9ef2ae813f8fe494a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/f2b45e82ff814f2ce1205db11f8954d9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/f2b45e82ff814f2ce1205db11f8954d9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/d36bd2115f228344a976f8ba817c30d9/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/d36bd2115f228344a976f8ba817c30d9/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/016955648b5eb88f8595c301e81aff39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/016955648b5eb88f8595c301e81aff39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/4250840d41a6fe5e47905304e65cfa3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/4250840d41a6fe5e47905304e65cfa3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/d5fe7397c6db8a1bf45c82fc99364f49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/d5fe7397c6db8a1bf45c82fc99364f49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/a9da4ac328e78151a21e12a3c21d92e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/a9da4ac328e78151a21e12a3c21d92e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/4f95aa427b113858f89277f326979621/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/4f95aa427b113858f89277f326979621/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/4fb694f60182b489a4584ba31091789e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/4fb694f60182b489a4584ba31091789e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/78adcd4fbb1225275a02177d008a9046/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/78adcd4fbb1225275a02177d008a9046/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/c455a33bfdf45be267fd84ece66ae107/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/c455a33bfdf45be267fd84ece66ae107/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/d6d1c0d69281f7b5ea142426d6e5746a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/d6d1c0d69281f7b5ea142426d6e5746a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/7fd2e77d514c5c7cfc33c0b92c0769ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/7fd2e77d514c5c7cfc33c0b92c0769ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/a413054dfc63a409f2f41644f67498f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/a413054dfc63a409f2f41644f67498f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/936d06b90ed122b5c62cb31aea329d08/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/936d06b90ed122b5c62cb31aea329d08/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/0979a7f7d0b4482a2be05ae8f0fd7c7e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/0979a7f7d0b4482a2be05ae8f0fd7c7e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/c3894f49535a0fc640d250af8e06785b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/c3894f49535a0fc640d250af8e06785b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/21dcea46af78a83f89dcf24e929fe1e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/21dcea46af78a83f89dcf24e929fe1e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/32d0efb6635c38a22da0fc2403b09202/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/32d0efb6635c38a22da0fc2403b09202/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/86200e8e8f6431ba13bc7361514f8c8c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/86200e8e8f6431ba13bc7361514f8c8c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/ca7ae54736dd2e40640378ac6452030a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/ca7ae54736dd2e40640378ac6452030a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/a07b4c80d8b038311796bfe95561dbef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/a07b4c80d8b038311796bfe95561dbef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/762d8c78cbe526e95bc621bd67edc71e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/762d8c78cbe526e95bc621bd67edc71e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/535e9e4b687caf86db04b582b1de4c8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/535e9e4b687caf86db04b582b1de4c8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/11e92b5b054a50938ab1bde25603edeb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/11e92b5b054a50938ab1bde25603edeb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/a08cca9ba6e16fd90c9f7fa998fbfb02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/a08cca9ba6e16fd90c9f7fa998fbfb02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/13e2af88736352a3ad13b2fc6e4d5e10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/13e2af88736352a3ad13b2fc6e4d5e10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/f08cba349eb21ebe1d52e636be5c4106/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/f08cba349eb21ebe1d52e636be5c4106/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/5d559c0e43f1788d51b706eb1eb87069/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/5d559c0e43f1788d51b706eb1eb87069/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/299651a8613a172046a63323e147a20a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/299651a8613a172046a63323e147a20a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/719e88f50b697c6b6603d23f47f8e4e7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/719e88f50b697c6b6603d23f47f8e4e7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/af549e50637bab277ca1c72cc4af9bca/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/af549e50637bab277ca1c72cc4af9bca/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/e764e0c6989acbaeaf48d698258e9a3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/e764e0c6989acbaeaf48d698258e9a3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/19e308a232217aaaf96d6890d927472a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/19e308a232217aaaf96d6890d927472a/AndroidManifest.xml:20:5-44
+INJECTED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jimpoolmoreno/Documents/Android/CustomFAB/app/src/main/AndroidManifest.xml
