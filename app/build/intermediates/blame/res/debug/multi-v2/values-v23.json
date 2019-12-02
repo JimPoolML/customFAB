@@ -4,7 +4,7 @@
             "outputFile": "/Users/jimpoolmoreno/Documents/Android/CustomFAB/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/f2b45e82ff814f2ce1205db11f8954d9/res/values-v23/values-v23.xml",
+                    "source": "/Users/jimpoolmoreno/.gradle/caches/transforms-2/files-2.1/31016c6c0856b517b84ecfbcfb815ff0/appcompat-1.1.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "/Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/4f95aa427b113858f89277f326979621/res/values-v23/values-v23.xml",
+                    "source": "/Users/jimpoolmoreno/.gradle/caches/transforms-2/files-2.1/6589ea9df5e4c5732121f087e6d0e86b/cardview-1.0.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

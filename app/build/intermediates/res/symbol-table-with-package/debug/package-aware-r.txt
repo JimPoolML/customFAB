@@ -1171,7 +1171,6 @@ id enterAlwaysCollapsed
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
-id fab
 id fill
 id fill_horizontal
 id fill_vertical
@@ -1196,7 +1195,6 @@ id italic
 id item_touch_helper_previous_elevation
 id labeled
 id largeLabel
-id layout_fab
 id left
 id line1
 id line3
@@ -1372,7 +1370,6 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
 layout custom_dialog
-layout custom_fab
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
 layout design_layout_snackbar

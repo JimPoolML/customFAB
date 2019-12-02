@@ -4,7 +4,7 @@
             "outputFile": "/Users/jimpoolmoreno/Documents/Android/CustomFAB/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml",
             "map": [
                 {
-                    "source": "/Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/719e88f50b697c6b6603d23f47f8e4e7/res/values-pa/values-pa.xml",
+                    "source": "/Users/jimpoolmoreno/.gradle/caches/transforms-2/files-2.1/f71f8da7ba118f56b7a69563a8255a28/core-1.1.0/res/values-pa/values-pa.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/jimpoolmoreno/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/f2b45e82ff814f2ce1205db11f8954d9/res/values-pa/values-pa.xml",
+                    "source": "/Users/jimpoolmoreno/.gradle/caches/transforms-2/files-2.1/31016c6c0856b517b84ecfbcfb815ff0/appcompat-1.1.0/res/values-pa/values-pa.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
