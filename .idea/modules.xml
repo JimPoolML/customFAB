@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CustomFAB.iml" filepath="$PROJECT_DIR$/CustomFAB.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jpmfab/jpmfab.iml" filepath="$PROJECT_DIR$/jpmfab/jpmfab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CustomFAB.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CustomFAB.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpmfab/CustomFAB.jpmfab.iml" filepath="$PROJECT_DIR$/.idea/modules/jpmfab/CustomFAB.jpmfab.iml" />
     </modules>
   </component>
 </project>
