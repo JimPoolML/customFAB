@@ -5,6 +5,7 @@ import android.content.Context;
 import android.content.res.ColorStateList;
 import android.graphics.Color;
 import android.graphics.Point;
+import android.os.Build;
 import android.os.Handler;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
@@ -17,6 +18,7 @@ import android.view.WindowManager;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 
+import androidx.annotation.RequiresApi;
 import androidx.appcompat.widget.ContentFrameLayout;
 
 import java.util.Objects;
@@ -181,11 +183,14 @@ public class MovableFloatingActionButton extends FloatingActionButton implements
         }, TIME_CLICKED);
     }
 
-    public void openFAB(Activity activity, Integer imageResource, ImageView.ScaleType center, ColorStateList color, Float elevation) {
+    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
+    public void openFAB(Activity activity, Integer imageResource, ScaleType center, ColorStateList color, Float elevation) {
         ContentFrameLayout rootLayout = activity.findViewById(android.R.id.content);
         if (rootLayout.findViewById(com.google.android.material.R.id.image) == null) {
             RelativeLayout.LayoutParams params = new RelativeLayout.LayoutParams(spaceFab, spaceFab);
-            setResources(imageResource, center, color, elevation);
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+                setResources(imageResource, center, color, elevation);
+            }
             params.addRule(RelativeLayout.ALIGN_PARENT_BOTTOM);
             params.addRule(RelativeLayout.ALIGN_PARENT_END);
             rootLayout.addView(this, params);
@@ -194,7 +199,8 @@ public class MovableFloatingActionButton extends FloatingActionButton implements
         this.requestFocus();
     }
 
-    public void setResources(Integer imageResource, ImageView.ScaleType center, ColorStateList color, Float elevation) {
+    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
+    public void setResources(Integer imageResource, ScaleType center, ColorStateList color, Float elevation) {
         //Set imageResource
         if(imageResource == null){
             //This image you can find in "https://snipstock.com/image/radioactive-png-images-radiation-pngs-2-png-82140"
@@ -204,7 +210,7 @@ public class MovableFloatingActionButton extends FloatingActionButton implements
         }
         //Set scaleType
         if(center == null){
-            this.setScaleType(ImageView.ScaleType.CENTER);
+            this.setScaleType(ScaleType.CENTER);
         }else{
             this.setScaleType(center);
         }
@@ -216,9 +222,13 @@ public class MovableFloatingActionButton extends FloatingActionButton implements
         }
         //Set elevation
         if(elevation == null){
-            this.setElevation(ELEVATION);
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+                this.setElevation(ELEVATION);
+            }
         }else{
-            this.setElevation(elevation);
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+                this.setElevation(elevation);
+            }
         }
     }
 

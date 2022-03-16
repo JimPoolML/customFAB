@@ -1,7 +1,19 @@
 #Internal package file, do not edit.
-#Wed Mar 16 09:56:05 COT 2022
-0.base=/Users/jimpoolmoreno/Documents/Android/CustomFAB/app/build/intermediates/transforms/dexMerger/debug/0
+#Wed Mar 16 10:57:42 COT 2022
+3.set=DEX
+3.path=classes.dex
+2.base=/Users/jimpoolmoreno/Documents/Android/CustomFAB/app/build/intermediates/transforms/dexMerger/debug/2
 0.path=classes.dex
-count=1
+count=4
+1.set=DEX
+2.path=classes.dex
+2.baseType=DIRECTORY
+0.base=/Users/jimpoolmoreno/Documents/Android/CustomFAB/app/build/intermediates/transforms/dexMerger/debug/3
+2.set=DEX
+3.base=/Users/jimpoolmoreno/Documents/Android/CustomFAB/app/build/intermediates/transforms/dexMerger/debug/0
+1.baseType=DIRECTORY
+3.baseType=DIRECTORY
+1.path=classes.dex
 0.baseType=DIRECTORY
+1.base=/Users/jimpoolmoreno/Documents/Android/CustomFAB/app/build/intermediates/transforms/dexMerger/debug/4
 0.set=DEX
